@@ -11,7 +11,6 @@ The FT8-Helper and JTDX-Helper share the most part of the source code. The versi
 - Selection of CQ, S/P, XCHG and MIX mode by menas of selection menu instead of dedicated Start-SP and Start-CQ buttons
 - CQ+SP mode was re-named to XCHG-mode
 - New MIX-mode: Combined CQ/SP-mode. If no CQ calling stationa are available, it calls CQ. MIX-mode is available for Band-Hopping
-- New function: CQ=73. When in split-mode, the Helper can call stations sending 73 or RR73.
 - Invalid or unwanted endings (e.g. /R) can be excluded by entering */R
 - Exclude entries can be specified for both in- and outgoing calls or only for outgoing calls. Example: #DL would prevent calling DL stations, but calls from DL stations would be accepted.
 
