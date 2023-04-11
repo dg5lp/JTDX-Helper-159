@@ -20,7 +20,7 @@ The FT8-Helper program was developed as macro extension for WSJT-X using the Qui
 
 Main Features:
 
-- Works with JTDX-2.2.159 32- and 64 bit version (no derivates)
+- Works with JTDX-2.2.159 32- and 64 bit version (no derivates), but also works with the preliminary version JTDX-2.2.160 too
 - Automatic operation in both "CQ" and "S/P" mode.
 - MIX-mode: If no CQ calling stationa are available, it calls CQ
 - XCHG-mode: Changes between CQ and S/P automatically with programmable intervals
