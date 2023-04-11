@@ -37,7 +37,7 @@ Main Features:
 
 Various strategies for incoming and outgoing calls:
 
-- Best Priority acording the WSJT-X "Colours" settings.
+- Best Priority acording the JTDX "Notification" settings.
 - Best S/N: If Stations with the same priority received, the one with the best S/N selected
 - Only DX: Minimum DX-distance can be specified in Km and Miles.
 - Prefer-DX: DX stations are prefered.
