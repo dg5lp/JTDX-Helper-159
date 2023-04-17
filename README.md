@@ -9,7 +9,7 @@ New in JTDX-Helper-159-2
 
 New in JTDX-Helper-159-1
 
-The FT8-Helper and JTDX-Helper share the most part of the source code. The version numbering of the software has been changed. The first part of the number identifies the matching WSJTX/JTDX version, die number following the “-“ shows the actual version of the Helper. The current version for JTDX-2.2.159 the JTDX-Helper-159-1
+The FT8-Helper and JTDX-Helper share the most part of the source code. The version numbering of the software has been changed. The first part of the number identifies the matching WSJTX/JTDX version, die number following the “-“ shows the actual version of the Helper. The current version for JTDX-2.2.159 the JTDX-Helper-159-2
 
 - Selection of CQ, S/P, XCHG and MIX mode by menas of selection menu instead of dedicated Start-SP and Start-CQ buttons
 - CQ+SP mode was re-named to XCHG-mode
