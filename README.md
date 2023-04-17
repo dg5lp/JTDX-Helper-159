@@ -5,7 +5,7 @@ Important note!
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software.
 
 New in JTDX-Helper-159-2
-- bugfix in band-hopping if Skip-Tx1 used: Don´t stop correctly at the programmed end of cycle.
+- bugfix in band-hopping if 73=CQ used: Does not stop correctly at the programmed end of cycle.
 
 New in JTDX-Helper-159-1
 
