@@ -4,6 +4,9 @@ Important note!
 
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software.
 
+New in JTDX-Helper-159-2
+- bugfix in band-hopping if Skip-Tx1 used: Don´t stop correctly at the programmed end of cycle.
+
 New in JTDX-Helper-159-1
 
 The FT8-Helper and JTDX-Helper share the most part of the source code. The version numbering of the software has been changed. The first part of the number identifies the matching WSJTX/JTDX version, die number following the “-“ shows the actual version of the Helper. The current version for JTDX-2.2.159 the JTDX-Helper-159-1
