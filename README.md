@@ -2,6 +2,8 @@
 
 Important notes!
 
+There is a new version running with JTDX-159 and JTDX-160. See in the other procect directory!
+
 Be sure using the original JTDX!  There are some modified clones in circulation using the same name and version. It will not work!
 
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software.
